@@ -76,7 +76,7 @@ Specific functions of generateMarkdown.js
 After dynamically coding Index.js and generateMarkdownjs , we were able to provide an engaging, efficient, and stuctured Node.js application that generates a professional README file.
 
 ## Submission
-This project was uploaded to GitHub at the following respository link:
+This project was uploaded to GitHub at the following repository link:
 [https://github.com/nhanng19/readme_generator](https://github.com/nhanng19/readme_generator)
 
 Walkthrough video: [https://drive.google.com/file/d/17mvdLqx0fT00417CcV9HXt1qx9cjSI6Z/view](https://drive.google.com/file/d/17mvdLqx0fT00417CcV9HXt1qx9cjSI6Z/view)
