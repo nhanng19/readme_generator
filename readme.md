@@ -16,7 +16,7 @@ node index.js
 
 Because this application won’t be deployed, we'll also need to provide a link to a walkthrough video that demonstrates its functionality. We’ll need to submit a link to the video _and_ add it to the README.
 
-![](/assets/front.png)
+![](./assets/front.PNG)
 
 [LINK TO THE VIDEO](https://drive.google.com/file/d/1N6sD2skZ-01B19x9S4BqOPhpS3_239tg/view)
 
