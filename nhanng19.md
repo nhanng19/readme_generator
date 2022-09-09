@@ -38,4 +38,4 @@ If there are any questions, feel free to contact my email at: nhanng19@gmail.com
 You can also find me on GitHub at: [nhanng19](https://www.github.com/nhanng19)
 
 ## Deployed Application 🚀
-This application was deplopyed at [This project was uploaded to GitHub at the following repository link: [https://github.com/nhanng19/readme_generator](https://github.com/nhanng19/readme_generator)](This project was uploaded to GitHub at the following repository link: [https://github.com/nhanng19/readme_generator](https://github.com/nhanng19/readme_generator))
+This application was deplopyed at [https://drive.google.com/file/d/17mvdLqx0fT00417CcV9HXt1qx9cjSI6Z/view](https://drive.google.com/file/d/17mvdLqx0fT00417CcV9HXt1qx9cjSI6Z/view)
