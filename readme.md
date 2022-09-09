@@ -18,7 +18,7 @@ Because this application won’t be deployed, we'll also need to provide a link 
 
 ![](./assets/front.PNG)
 
-[LINK TO THE VIDEO](https://drive.google.com/file/d/1N6sD2skZ-01B19x9S4BqOPhpS3_239tg/view)
+[LINK TO THE VIDEO](https://drive.google.com/file/d/17mvdLqx0fT00417CcV9HXt1qx9cjSI6Z/view)
 
 
 ## User Story
@@ -79,5 +79,4 @@ After dynamically coding Index.js and generateMarkdownjs , we were able to provi
 This project was uploaded to GitHub at the following respository link:
 [https://github.com/nhanng19/readme_generator](https://github.com/nhanng19/readme_generator)
 
-Walkthrough video: [https://drive.google.com/file/d/1N6sD2skZ-01B19x9S4BqOPhpS3_239tg/view](https://drive.google.com/file/d/1N6sD2skZ-01B19x9S4BqOPhpS3_239tg/view)
-
+Walkthrough video: [https://drive.google.com/file/d/17mvdLqx0fT00417CcV9HXt1qx9cjSI6Z/view](https://drive.google.com/file/d/17mvdLqx0fT00417CcV9HXt1qx9cjSI6Z/view)
